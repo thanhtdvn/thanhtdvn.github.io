@@ -1,0 +1,5 @@
+[{"id":1,"title":"Meeting 1","desc":"Meeting with client", "location":"US", "startTime": "2020/10/10 10:00", "endTime":"2020/10/10 12:00", "userId": 1, "creator": "Nick Offerman"},
+{"id":2,"title":"Meeting 2","desc":"Meeting with A", "location":"123 Nguyen Trai", "startTime": "2020/10/10 10:00", "endTime":"2020/10/10 12:00", "userId": 1, "creator": "Nick Offerman"},
+{"id":3,"title":"Meeting 3","desc":"Meeting with B", "location":"456 Arizona", "startTime": "2020/10/10 10:00", "endTime":"2020/10/10 12:00", "userId": 2, "creator": "Thanh Truong"},
+{"id":4,"title":"Meeting 4","desc":"Meeting with C", "location":"789 Cong Hoa", "startTime": "2020/10/10 10:00", "endTime":"2020/10/10 12:00", "userId": 3, "creator": "Trung Duong"}
+]
